@@ -1,0 +1,5 @@
+package com.user.fullStackbackend.exception;
+
+public class UserNotFoundAdvice {
+
+}

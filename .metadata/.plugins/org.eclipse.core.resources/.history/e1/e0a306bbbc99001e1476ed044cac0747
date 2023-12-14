@@ -1,0 +1,5 @@
+package com.user.fullStackbackend.controller;
+
+public class UserController {
+
+}
